@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Palette (Dark Mode) -->
+    <color name="primary">#818CF8</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="primary_light">#1E1B4B</color>
+    <color name="accent">#34D399</color>
+
+    <!-- BMI Category Colors (Dark Mode) -->
+    <color name="bmi_underweight">#60A5FA</color> <!-- Light Blue -->
+    <color name="bmi_normal">#34D399</color>      <!-- Light Emerald -->
+    <color name="bmi_overweight">#FBBF24</color>  <!-- Light Amber -->
+    <color name="bmi_obese">#FB7185</color>       <!-- Light Rose -->
+
+    <!-- Category Dark Translucent Backgrounds -->
+    <color name="bmi_underweight_bg">#3360A5FA</color>
+    <color name="bmi_normal_bg">#3334D399</color>
+    <color name="bmi_overweight_bg">#33FBBF24</color>
+    <color name="bmi_obese_bg">#33FB7185</color>
+
+    <!-- Surface & Background (Dark) -->
+    <color name="window_background">#0F172A</color>
+    <color name="surface_card">#1E293B</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="divider_color">#334155</color>
+</resources>

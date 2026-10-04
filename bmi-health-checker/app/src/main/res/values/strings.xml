@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">BMI Health Checker</string>
+    <string name="tagline">Calculate your Body Mass Index &amp; stay healthy</string>
+
+    <!-- Unit Toggle -->
+    <string name="unit_metric">Metric (cm / kg)</string>
+    <string name="unit_imperial">Imperial (in / lbs)</string>
+
+    <!-- Input Labels -->
+    <string name="label_height_cm">Height (cm)</string>
+    <string name="label_height_in">Height (inches)</string>
+    <string name="label_weight_kg">Weight (kg)</string>
+    <string name="label_weight_lbs">Weight (lbs)</string>
+    <string name="hint_enter_height">e.g. 175</string>
+    <string name="hint_enter_weight">e.g. 70</string>
+
+    <!-- Buttons -->
+    <string name="btn_calculate">Calculate BMI</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_history">History</string>
+    <string name="btn_clear_history">Clear All History</string>
+
+    <!-- BMI Categories -->
+    <string name="category_underweight">Underweight (&lt; 18.5)</string>
+    <string name="category_normal">Normal Weight (18.5 – 24.9)</string>
+    <string name="category_overweight">Overweight (25.0 – 29.9)</string>
+    <string name="category_obese">Obese (30.0 &amp; above)</string>
+
+    <!-- Health Advice -->
+    <string name="advice_underweight">Your BMI is under 18.5. Focus on nutrient-rich foods, complex carbohydrates, and strength training to build lean muscle mass safely.</string>
+    <string name="advice_normal">Excellent! Your BMI is in the optimal range. Maintain your healthy lifestyle with a balanced diet, consistent physical activity, and adequate rest.</string>
+    <string name="advice_overweight">Your BMI is between 25.0 and 29.9. Incorporate 30 minutes of daily aerobic exercise, watch portion sizes, and increase fiber intake.</string>
+    <string name="advice_obese">Your BMI is 30.0 or higher. Consider consulting a healthcare professional for a tailored fitness and nutrition plan. Start with low-impact exercises like walking or swimming.</string>
+
+    <!-- Health Tips -->
+    <string name="health_tips_title">Health &amp; Wellness Tips</string>
+    <string name="tip_hydration_title">Stay Hydrated</string>
+    <string name="tip_hydration_desc">Drink 8–10 glasses of water daily to support metabolism and digestion.</string>
+    <string name="tip_diet_title">Balanced Nutrition</string>
+    <string name="tip_diet_desc">Prioritize whole foods, vegetables, lean proteins, and healthy fats.</string>
+    <string name="tip_exercise_title">Daily Movement</string>
+    <string name="tip_exercise_desc">Aim for at least 150 minutes of moderate aerobic activity every week.</string>
+
+    <!-- Gender & Age Selection -->
+    <string name="label_gender">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="label_age">Age (years)</string>
+    <string name="hint_enter_age">e.g. 25</string>
+
+    <!-- Interactive Sliders -->
+    <string name="slider_height_label">Quick Height Adjuster</string>
+    <string name="slider_weight_label">Quick Weight Adjuster</string>
+
+    <!-- Ideal Weight & Health Insights -->
+    <string name="title_ideal_weight">Target Healthy Weight</string>
+    <string name="title_water_intake">Daily Water Goal</string>
+    <string name="title_bmr">Estimated Basal Metabolic Rate (BMR)</string>
+
+    <!-- Validation & Notifications -->
+    <string name="error_empty_height">Height cannot be empty</string>
+    <string name="error_invalid_height">Enter a valid height greater than zero</string>
+    <string name="error_empty_weight">Weight cannot be empty</string>
+    <string name="error_invalid_weight">Enter a valid weight greater than zero</string>
+    <string name="toast_calculated">BMI calculated and saved to history!</string>
+    <string name="toast_reset">Inputs cleared</string>
+    <string name="toast_history_cleared">History cleared</string>
+
+    <!-- History Dialog -->
+    <string name="history_title">BMI Record History</string>
+    <string name="no_history">No BMI history recorded yet. Calculate your BMI to save your first entry!</string>
+</resources>

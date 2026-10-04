@@ -1,0 +1,6 @@
+{
+  "name": "BMI Health Checker",
+  "description": "Calculate BMI, track history, view category visual gauge, and receive personalized health tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

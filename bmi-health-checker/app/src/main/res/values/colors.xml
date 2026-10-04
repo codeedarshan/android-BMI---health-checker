@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Vibrant Brand Palette -->
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="primary_light">#EEF2FF</color>
+    <color name="accent">#10B981</color>
+
+    <!-- Vibrant BMI Category Colors -->
+    <color name="bmi_underweight">#3B82F6</color> <!-- Blue -->
+    <color name="bmi_normal">#10B981</color>      <!-- Emerald Green -->
+    <color name="bmi_overweight">#F59E0B</color>  <!-- Amber Orange -->
+    <color name="bmi_obese">#F43F5E</color>       <!-- Rose Red -->
+
+    <!-- Category Translucent Backgrounds -->
+    <color name="bmi_underweight_bg">#1A3B82F6</color>
+    <color name="bmi_normal_bg">#1A10B981</color>
+    <color name="bmi_overweight_bg">#1AF59E0B</color>
+    <color name="bmi_obese_bg">#1AF43F5E</color>
+
+    <!-- Surface & Background (Light) -->
+    <color name="window_background">#F8F9FF</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="divider_color">#E2E8F0</color>
+</resources>
